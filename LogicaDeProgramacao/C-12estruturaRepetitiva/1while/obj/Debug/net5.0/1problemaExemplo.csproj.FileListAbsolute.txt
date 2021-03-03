@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\obj\Debug\net5.0\1problemaExemplo.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\obj\Debug\net5.0\1problemaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\obj\Debug\net5.0\1problemaExemplo.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\obj\Debug\net5.0\1problemaExemplo.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\obj\Debug\net5.0\1problemaExemplo.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\bin\Debug\net5.0\1problemaExemplo.exe
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\bin\Debug\net5.0\1problemaExemplo.deps.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\bin\Debug\net5.0\1problemaExemplo.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\bin\Debug\net5.0\1problemaExemplo.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\bin\Debug\net5.0\1problemaExemplo.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\bin\Debug\net5.0\ref\1problemaExemplo.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\bin\Debug\net5.0\1problemaExemplo.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\obj\Debug\net5.0\1problemaExemplo.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\obj\Debug\net5.0\ref\1problemaExemplo.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\obj\Debug\net5.0\1problemaExemplo.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\12while\1problemaExemplo\obj\Debug\net5.0\1problemaExemplo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\bin\Debug\net5.0\3diferencaABCD.exe
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\bin\Debug\net5.0\3diferencaABCD.deps.json
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\bin\Debug\net5.0\3diferencaABCD.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\bin\Debug\net5.0\3diferencaABCD.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\bin\Debug\net5.0\3diferencaABCD.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\bin\Debug\net5.0\ref\3diferencaABCD.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\bin\Debug\net5.0\3diferencaABCD.pdb
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\obj\Debug\net5.0\3diferencaABCD.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\obj\Debug\net5.0\3diferencaABCD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\obj\Debug\net5.0\3diferencaABCD.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\obj\Debug\net5.0\3diferencaABCD.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\obj\Debug\net5.0\3diferencaABCD.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\obj\Debug\net5.0\3diferencaABCD.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\obj\Debug\net5.0\ref\3diferencaABCD.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\obj\Debug\net5.0\3diferencaABCD.pdb
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\3diferencaABCD\obj\Debug\net5.0\3diferencaABCD.genruntimeconfig.cache

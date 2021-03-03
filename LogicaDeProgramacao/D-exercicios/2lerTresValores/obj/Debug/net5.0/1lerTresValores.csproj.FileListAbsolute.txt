@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\bin\Debug\net5.0\1lerTresValores.exe
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\bin\Debug\net5.0\1lerTresValores.deps.json
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\bin\Debug\net5.0\1lerTresValores.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\bin\Debug\net5.0\1lerTresValores.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\bin\Debug\net5.0\1lerTresValores.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\bin\Debug\net5.0\ref\1lerTresValores.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\bin\Debug\net5.0\1lerTresValores.pdb
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\obj\Debug\net5.0\1lerTresValores.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\obj\Debug\net5.0\1lerTresValores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\obj\Debug\net5.0\1lerTresValores.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\obj\Debug\net5.0\1lerTresValores.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\obj\Debug\net5.0\1lerTresValores.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\obj\Debug\net5.0\1lerTresValores.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\obj\Debug\net5.0\ref\1lerTresValores.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\obj\Debug\net5.0\1lerTresValores.pdb
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\1lerTresValores\obj\Debug\net5.0\1lerTresValores.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\obj\Debug\net5.0\2exemploDeFuncao.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\obj\Debug\net5.0\2exemploDeFuncao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\obj\Debug\net5.0\2exemploDeFuncao.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\obj\Debug\net5.0\2exemploDeFuncao.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\obj\Debug\net5.0\2exemploDeFuncao.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\bin\Debug\net5.0\2exemploDeFuncao.exe
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\bin\Debug\net5.0\2exemploDeFuncao.deps.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\bin\Debug\net5.0\2exemploDeFuncao.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\bin\Debug\net5.0\2exemploDeFuncao.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\bin\Debug\net5.0\2exemploDeFuncao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\bin\Debug\net5.0\ref\2exemploDeFuncao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\bin\Debug\net5.0\2exemploDeFuncao.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\obj\Debug\net5.0\2exemploDeFuncao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\obj\Debug\net5.0\ref\2exemploDeFuncao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\obj\Debug\net5.0\2exemploDeFuncao.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\11funcoes\2exemploDeFuncao\obj\Debug\net5.0\2exemploDeFuncao.genruntimeconfig.cache

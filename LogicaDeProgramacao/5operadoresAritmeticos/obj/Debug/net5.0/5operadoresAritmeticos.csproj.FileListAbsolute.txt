@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\bin\Debug\net5.0\5operadoresAritmeticos.exe
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\bin\Debug\net5.0\5operadoresAritmeticos.deps.json
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\bin\Debug\net5.0\5operadoresAritmeticos.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\bin\Debug\net5.0\5operadoresAritmeticos.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\bin\Debug\net5.0\5operadoresAritmeticos.dll
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\bin\Debug\net5.0\ref\5operadoresAritmeticos.dll
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\bin\Debug\net5.0\5operadoresAritmeticos.pdb
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\obj\Debug\net5.0\5operadoresAritmeticos.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\obj\Debug\net5.0\5operadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\obj\Debug\net5.0\5operadoresAritmeticos.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\obj\Debug\net5.0\5operadoresAritmeticos.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\obj\Debug\net5.0\5operadoresAritmeticos.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\obj\Debug\net5.0\5operadoresAritmeticos.dll
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\obj\Debug\net5.0\ref\5operadoresAritmeticos.dll
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\obj\Debug\net5.0\5operadoresAritmeticos.pdb
+D:\Projetos\LogicaDeProgramacao\aula1\5operadoresAritmeticos\obj\Debug\net5.0\5operadoresAritmeticos.genruntimeconfig.cache

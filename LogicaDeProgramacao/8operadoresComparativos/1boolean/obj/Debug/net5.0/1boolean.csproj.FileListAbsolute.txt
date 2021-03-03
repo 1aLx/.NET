@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\bin\Debug\net5.0\1boolean.exe
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\bin\Debug\net5.0\1boolean.deps.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\bin\Debug\net5.0\1boolean.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\bin\Debug\net5.0\1boolean.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\bin\Debug\net5.0\1boolean.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\bin\Debug\net5.0\ref\1boolean.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\bin\Debug\net5.0\1boolean.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\obj\Debug\net5.0\1boolean.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\obj\Debug\net5.0\1boolean.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\obj\Debug\net5.0\1boolean.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\obj\Debug\net5.0\1boolean.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\obj\Debug\net5.0\1boolean.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\obj\Debug\net5.0\1boolean.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\obj\Debug\net5.0\ref\1boolean.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\obj\Debug\net5.0\1boolean.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\8operadoresComparativos\1boolean\obj\Debug\net5.0\1boolean.genruntimeconfig.cache

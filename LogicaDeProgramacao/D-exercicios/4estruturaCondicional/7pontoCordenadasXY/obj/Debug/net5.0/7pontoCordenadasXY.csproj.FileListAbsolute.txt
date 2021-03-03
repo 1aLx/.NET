@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\bin\Debug\net5.0\7pontoCordenadasXY.exe
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\bin\Debug\net5.0\7pontoCordenadasXY.deps.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\bin\Debug\net5.0\7pontoCordenadasXY.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\bin\Debug\net5.0\7pontoCordenadasXY.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\bin\Debug\net5.0\7pontoCordenadasXY.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\bin\Debug\net5.0\ref\7pontoCordenadasXY.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\bin\Debug\net5.0\7pontoCordenadasXY.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\obj\Debug\net5.0\7pontoCordenadasXY.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\obj\Debug\net5.0\7pontoCordenadasXY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\obj\Debug\net5.0\7pontoCordenadasXY.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\obj\Debug\net5.0\7pontoCordenadasXY.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\obj\Debug\net5.0\7pontoCordenadasXY.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\obj\Debug\net5.0\7pontoCordenadasXY.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\obj\Debug\net5.0\ref\7pontoCordenadasXY.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\obj\Debug\net5.0\7pontoCordenadasXY.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\7pontoCordenadasXY\obj\Debug\net5.0\7pontoCordenadasXY.genruntimeconfig.cache

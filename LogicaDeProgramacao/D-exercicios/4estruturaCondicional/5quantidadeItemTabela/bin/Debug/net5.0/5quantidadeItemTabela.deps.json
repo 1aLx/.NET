@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "5quantidadeItemTabela/1.0.0": {
+        "runtime": {
+          "5quantidadeItemTabela.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5quantidadeItemTabela/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

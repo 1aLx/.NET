@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\bin\Debug\net5.0\6areaTriangulos.exe
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\bin\Debug\net5.0\6areaTriangulos.deps.json
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\bin\Debug\net5.0\6areaTriangulos.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\bin\Debug\net5.0\6areaTriangulos.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\bin\Debug\net5.0\6areaTriangulos.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\bin\Debug\net5.0\ref\6areaTriangulos.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\bin\Debug\net5.0\6areaTriangulos.pdb
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\obj\Debug\net5.0\6areaTriangulos.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\obj\Debug\net5.0\6areaTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\obj\Debug\net5.0\6areaTriangulos.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\obj\Debug\net5.0\6areaTriangulos.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\obj\Debug\net5.0\6areaTriangulos.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\obj\Debug\net5.0\6areaTriangulos.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\obj\Debug\net5.0\ref\6areaTriangulos.dll
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\obj\Debug\net5.0\6areaTriangulos.pdb
+D:\Projetos\LogicaDeProgramacao\aula1\exercicios\3estrutraSequencial\6areaTriangulos\obj\Debug\net5.0\6areaTriangulos.genruntimeconfig.cache

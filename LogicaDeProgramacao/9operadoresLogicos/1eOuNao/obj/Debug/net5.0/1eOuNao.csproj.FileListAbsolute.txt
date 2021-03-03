@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\bin\Debug\net5.0\1eOuNao.exe
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\bin\Debug\net5.0\1eOuNao.deps.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\bin\Debug\net5.0\1eOuNao.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\bin\Debug\net5.0\1eOuNao.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\bin\Debug\net5.0\1eOuNao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\bin\Debug\net5.0\ref\1eOuNao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\bin\Debug\net5.0\1eOuNao.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\obj\Debug\net5.0\1eOuNao.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\obj\Debug\net5.0\1eOuNao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\obj\Debug\net5.0\1eOuNao.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\obj\Debug\net5.0\1eOuNao.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\obj\Debug\net5.0\1eOuNao.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\obj\Debug\net5.0\1eOuNao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\obj\Debug\net5.0\ref\1eOuNao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\obj\Debug\net5.0\1eOuNao.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\9operadoresLogicos\1eOuNao\obj\Debug\net5.0\1eOuNao.genruntimeconfig.cache

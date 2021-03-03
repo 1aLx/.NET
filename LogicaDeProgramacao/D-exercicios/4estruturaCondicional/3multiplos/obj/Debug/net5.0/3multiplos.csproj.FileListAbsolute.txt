@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\obj\Debug\net5.0\3multiplos.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\obj\Debug\net5.0\3multiplos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\obj\Debug\net5.0\3multiplos.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\obj\Debug\net5.0\3multiplos.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\obj\Debug\net5.0\3multiplos.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\bin\Debug\net5.0\3multiplos.exe
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\bin\Debug\net5.0\3multiplos.deps.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\bin\Debug\net5.0\3multiplos.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\bin\Debug\net5.0\3multiplos.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\bin\Debug\net5.0\3multiplos.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\bin\Debug\net5.0\ref\3multiplos.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\bin\Debug\net5.0\3multiplos.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\obj\Debug\net5.0\3multiplos.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\obj\Debug\net5.0\ref\3multiplos.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\obj\Debug\net5.0\3multiplos.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\4estruturaCondicional\3multiplos\obj\Debug\net5.0\3multiplos.genruntimeconfig.cache

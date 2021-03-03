@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\bin\Debug\net5.0\4casting.exe
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\bin\Debug\net5.0\4casting.deps.json
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\bin\Debug\net5.0\4casting.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\bin\Debug\net5.0\4casting.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\bin\Debug\net5.0\4casting.dll
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\bin\Debug\net5.0\ref\4casting.dll
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\bin\Debug\net5.0\4casting.pdb
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\obj\Debug\net5.0\4casting.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\obj\Debug\net5.0\4casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\obj\Debug\net5.0\4casting.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\obj\Debug\net5.0\4casting.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\obj\Debug\net5.0\4casting.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\obj\Debug\net5.0\4casting.dll
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\obj\Debug\net5.0\ref\4casting.dll
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\obj\Debug\net5.0\4casting.pdb
+D:\Projetos\LogicaDeProgramacao\aula1\4casting\obj\Debug\net5.0\4casting.genruntimeconfig.cache

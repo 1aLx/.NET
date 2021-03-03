@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "placeholdersConcatenacaoInterpolacao/1.0.0": {
+        "runtime": {
+          "placeholdersConcatenacaoInterpolacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "placeholdersConcatenacaoInterpolacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

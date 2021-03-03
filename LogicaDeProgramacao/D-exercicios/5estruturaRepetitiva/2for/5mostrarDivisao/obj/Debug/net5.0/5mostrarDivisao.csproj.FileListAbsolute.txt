@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\obj\Debug\net5.0\5mostrarDivisao.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\obj\Debug\net5.0\5mostrarDivisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\obj\Debug\net5.0\5mostrarDivisao.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\obj\Debug\net5.0\5mostrarDivisao.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\obj\Debug\net5.0\5mostrarDivisao.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\bin\Debug\net5.0\5mostrarDivisao.exe
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\bin\Debug\net5.0\5mostrarDivisao.deps.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\bin\Debug\net5.0\5mostrarDivisao.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\bin\Debug\net5.0\5mostrarDivisao.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\bin\Debug\net5.0\5mostrarDivisao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\bin\Debug\net5.0\ref\5mostrarDivisao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\bin\Debug\net5.0\5mostrarDivisao.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\obj\Debug\net5.0\5mostrarDivisao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\obj\Debug\net5.0\ref\5mostrarDivisao.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\obj\Debug\net5.0\5mostrarDivisao.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\exercicios\5estruturaRepetitiva\2for\5mostrarDivisao\obj\Debug\net5.0\5mostrarDivisao.genruntimeconfig.cache

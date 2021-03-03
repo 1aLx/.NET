@@ -1,0 +1,16 @@
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\bin\Debug\net5.0\1simples.exe
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\bin\Debug\net5.0\1simples.deps.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\bin\Debug\net5.0\1simples.runtimeconfig.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\bin\Debug\net5.0\1simples.runtimeconfig.dev.json
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\bin\Debug\net5.0\1simples.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\bin\Debug\net5.0\ref\1simples.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\bin\Debug\net5.0\1simples.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\obj\Debug\net5.0\1simples.csprojAssemblyReference.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\obj\Debug\net5.0\1simples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\obj\Debug\net5.0\1simples.AssemblyInfoInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\obj\Debug\net5.0\1simples.AssemblyInfo.cs
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\obj\Debug\net5.0\1simples.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\obj\Debug\net5.0\1simples.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\obj\Debug\net5.0\ref\1simples.dll
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\obj\Debug\net5.0\1simples.pdb
+D:\Projetos\LogicaDeProgramacao\LogicaDeProgramacaoCsharp\10estruturaCondicional-IfElse\1simples\obj\Debug\net5.0\1simples.genruntimeconfig.cache

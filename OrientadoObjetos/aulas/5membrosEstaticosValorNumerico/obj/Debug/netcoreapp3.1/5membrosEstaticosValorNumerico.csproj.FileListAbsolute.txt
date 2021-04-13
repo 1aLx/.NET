@@ -1,0 +1,13 @@
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\bin\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.exe
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\bin\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\bin\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\bin\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\bin\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.dll
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\bin\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.pdb
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\obj\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\obj\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\obj\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\obj\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.dll
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\obj\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.pdb
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\obj\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.genruntimeconfig.cache
+D:\Projetos\dotNET\OrientadoObjetos\aulas\5membrosEstaticosValorNumerico\obj\Debug\netcoreapp3.1\5membrosEstaticosValorNumerico.csprojAssemblyReference.cache

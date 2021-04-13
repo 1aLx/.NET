@@ -1,0 +1,13 @@
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\obj\Debug\netcoreapp3.1\2salarioFuncionario.csprojAssemblyReference.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\obj\Debug\netcoreapp3.1\2salarioFuncionario.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\obj\Debug\netcoreapp3.1\2salarioFuncionario.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\obj\Debug\netcoreapp3.1\2salarioFuncionario.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\bin\Debug\netcoreapp3.1\2salarioFuncionario.exe
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\bin\Debug\netcoreapp3.1\2salarioFuncionario.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\bin\Debug\netcoreapp3.1\2salarioFuncionario.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\bin\Debug\netcoreapp3.1\2salarioFuncionario.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\bin\Debug\netcoreapp3.1\2salarioFuncionario.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\bin\Debug\netcoreapp3.1\2salarioFuncionario.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\obj\Debug\netcoreapp3.1\2salarioFuncionario.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\obj\Debug\netcoreapp3.1\2salarioFuncionario.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\2salarioFuncionario\obj\Debug\netcoreapp3.1\2salarioFuncionario.genruntimeconfig.cache

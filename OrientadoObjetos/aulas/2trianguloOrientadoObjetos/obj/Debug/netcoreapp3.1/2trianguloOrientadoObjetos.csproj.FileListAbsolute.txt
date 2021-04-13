@@ -1,0 +1,13 @@
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\bin\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.exe
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\bin\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\bin\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\bin\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\bin\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.dll
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\bin\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.pdb
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\obj\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.csprojAssemblyReference.cache
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\obj\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\obj\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\obj\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\obj\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.dll
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\obj\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.pdb
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\2trianguloOrientadoObjetos\obj\Debug\netcoreapp3.1\2trianguloOrientadoObjetos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\bin\Debug\netcoreapp3.1\1exemploTriangulo.exe
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\bin\Debug\netcoreapp3.1\1exemploTriangulo.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\bin\Debug\netcoreapp3.1\1exemploTriangulo.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\bin\Debug\netcoreapp3.1\1exemploTriangulo.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\bin\Debug\netcoreapp3.1\1exemploTriangulo.dll
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\bin\Debug\netcoreapp3.1\1exemploTriangulo.pdb
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\obj\Debug\netcoreapp3.1\1exemploTriangulo.csprojAssemblyReference.cache
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\obj\Debug\netcoreapp3.1\1exemploTriangulo.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\obj\Debug\netcoreapp3.1\1exemploTriangulo.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\obj\Debug\netcoreapp3.1\1exemploTriangulo.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\obj\Debug\netcoreapp3.1\1exemploTriangulo.dll
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\obj\Debug\netcoreapp3.1\1exemploTriangulo.pdb
+D:\Projetos\dotNET\OrientadoObjetos\aulas\1exemploTriangulo\obj\Debug\netcoreapp3.1\1exemploTriangulo.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\bin\Debug\netcoreapp3.1\1pessoaMaisVelha.exe
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\bin\Debug\netcoreapp3.1\1pessoaMaisVelha.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\bin\Debug\netcoreapp3.1\1pessoaMaisVelha.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\bin\Debug\netcoreapp3.1\1pessoaMaisVelha.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\bin\Debug\netcoreapp3.1\1pessoaMaisVelha.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\bin\Debug\netcoreapp3.1\1pessoaMaisVelha.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\obj\Debug\netcoreapp3.1\1pessoaMaisVelha.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\obj\Debug\netcoreapp3.1\1pessoaMaisVelha.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\obj\Debug\netcoreapp3.1\1pessoaMaisVelha.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\obj\Debug\netcoreapp3.1\1pessoaMaisVelha.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\obj\Debug\netcoreapp3.1\1pessoaMaisVelha.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\1pessoaMaisVelha\obj\Debug\netcoreapp3.1\1pessoaMaisVelha.genruntimeconfig.cache

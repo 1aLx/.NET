@@ -1,0 +1,13 @@
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\bin\Debug\netcoreapp3.1\3criandoMetodoTriangulo.exe
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\bin\Debug\netcoreapp3.1\3criandoMetodoTriangulo.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\bin\Debug\netcoreapp3.1\3criandoMetodoTriangulo.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\bin\Debug\netcoreapp3.1\3criandoMetodoTriangulo.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\bin\Debug\netcoreapp3.1\3criandoMetodoTriangulo.dll
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\bin\Debug\netcoreapp3.1\3criandoMetodoTriangulo.pdb
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\obj\Debug\netcoreapp3.1\3criandoMetodoTriangulo.csprojAssemblyReference.cache
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\obj\Debug\netcoreapp3.1\3criandoMetodoTriangulo.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\obj\Debug\netcoreapp3.1\3criandoMetodoTriangulo.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\obj\Debug\netcoreapp3.1\3criandoMetodoTriangulo.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\obj\Debug\netcoreapp3.1\3criandoMetodoTriangulo.dll
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\obj\Debug\netcoreapp3.1\3criandoMetodoTriangulo.pdb
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\3criandoMetodoTriangulo\obj\Debug\netcoreapp3.1\3criandoMetodoTriangulo.genruntimeconfig.cache

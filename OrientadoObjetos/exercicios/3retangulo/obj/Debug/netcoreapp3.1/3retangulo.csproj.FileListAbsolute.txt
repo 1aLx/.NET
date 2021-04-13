@@ -1,0 +1,13 @@
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\bin\Debug\netcoreapp3.1\3retangulo.exe
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\bin\Debug\netcoreapp3.1\3retangulo.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\bin\Debug\netcoreapp3.1\3retangulo.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\bin\Debug\netcoreapp3.1\3retangulo.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\bin\Debug\netcoreapp3.1\3retangulo.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\bin\Debug\netcoreapp3.1\3retangulo.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\obj\Debug\netcoreapp3.1\3retangulo.csprojAssemblyReference.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\obj\Debug\netcoreapp3.1\3retangulo.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\obj\Debug\netcoreapp3.1\3retangulo.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\obj\Debug\netcoreapp3.1\3retangulo.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\obj\Debug\netcoreapp3.1\3retangulo.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\obj\Debug\netcoreapp3.1\3retangulo.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\3retangulo\obj\Debug\netcoreapp3.1\3retangulo.genruntimeconfig.cache

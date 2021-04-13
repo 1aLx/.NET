@@ -1,0 +1,13 @@
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\bin\Debug\netcoreapp3.1\4produtoEmEstoque.exe
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\bin\Debug\netcoreapp3.1\4produtoEmEstoque.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\bin\Debug\netcoreapp3.1\4produtoEmEstoque.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\bin\Debug\netcoreapp3.1\4produtoEmEstoque.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\bin\Debug\netcoreapp3.1\4produtoEmEstoque.dll
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\bin\Debug\netcoreapp3.1\4produtoEmEstoque.pdb
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\obj\Debug\netcoreapp3.1\4produtoEmEstoque.csprojAssemblyReference.cache
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\obj\Debug\netcoreapp3.1\4produtoEmEstoque.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\obj\Debug\netcoreapp3.1\4produtoEmEstoque.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\obj\Debug\netcoreapp3.1\4produtoEmEstoque.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\obj\Debug\netcoreapp3.1\4produtoEmEstoque.dll
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\obj\Debug\netcoreapp3.1\4produtoEmEstoque.pdb
+D:\Projetos\dotNET\OrientadoObjetos\1exemploTriangulo\4produtoEmEstoque\obj\Debug\netcoreapp3.1\4produtoEmEstoque.genruntimeconfig.cache

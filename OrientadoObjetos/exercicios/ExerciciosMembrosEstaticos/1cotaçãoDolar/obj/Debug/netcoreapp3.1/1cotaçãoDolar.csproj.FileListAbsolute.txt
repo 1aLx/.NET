@@ -1,0 +1,13 @@
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\obj\Debug\netcoreapp3.1\1cotaçãoDolar.csprojAssemblyReference.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\obj\Debug\netcoreapp3.1\1cotaçãoDolar.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\obj\Debug\netcoreapp3.1\1cotaçãoDolar.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\obj\Debug\netcoreapp3.1\1cotaçãoDolar.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\bin\Debug\netcoreapp3.1\1cotaçãoDolar.exe
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\bin\Debug\netcoreapp3.1\1cotaçãoDolar.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\bin\Debug\netcoreapp3.1\1cotaçãoDolar.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\bin\Debug\netcoreapp3.1\1cotaçãoDolar.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\bin\Debug\netcoreapp3.1\1cotaçãoDolar.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\bin\Debug\netcoreapp3.1\1cotaçãoDolar.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\obj\Debug\netcoreapp3.1\1cotaçãoDolar.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\obj\Debug\netcoreapp3.1\1cotaçãoDolar.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\ExerciciosMembrosEstaticos\1cotaçãoDolar\obj\Debug\netcoreapp3.1\1cotaçãoDolar.genruntimeconfig.cache

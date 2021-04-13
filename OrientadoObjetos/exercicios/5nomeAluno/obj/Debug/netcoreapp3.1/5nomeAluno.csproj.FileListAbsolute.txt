@@ -1,0 +1,13 @@
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\bin\Debug\netcoreapp3.1\5nomeAluno.exe
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\bin\Debug\netcoreapp3.1\5nomeAluno.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\bin\Debug\netcoreapp3.1\5nomeAluno.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\bin\Debug\netcoreapp3.1\5nomeAluno.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\bin\Debug\netcoreapp3.1\5nomeAluno.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\bin\Debug\netcoreapp3.1\5nomeAluno.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\obj\Debug\netcoreapp3.1\5nomeAluno.csprojAssemblyReference.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\obj\Debug\netcoreapp3.1\5nomeAluno.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\obj\Debug\netcoreapp3.1\5nomeAluno.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\obj\Debug\netcoreapp3.1\5nomeAluno.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\obj\Debug\netcoreapp3.1\5nomeAluno.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\obj\Debug\netcoreapp3.1\5nomeAluno.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\5nomeAluno\obj\Debug\netcoreapp3.1\5nomeAluno.genruntimeconfig.cache

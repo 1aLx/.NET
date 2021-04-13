@@ -1,0 +1,13 @@
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\bin\Debug\netcoreapp3.1\4dadosFuncionário.exe
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\bin\Debug\netcoreapp3.1\4dadosFuncionário.deps.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\bin\Debug\netcoreapp3.1\4dadosFuncionário.runtimeconfig.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\bin\Debug\netcoreapp3.1\4dadosFuncionário.runtimeconfig.dev.json
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\bin\Debug\netcoreapp3.1\4dadosFuncionário.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\bin\Debug\netcoreapp3.1\4dadosFuncionário.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\obj\Debug\netcoreapp3.1\4dadosFuncionário.csprojAssemblyReference.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\obj\Debug\netcoreapp3.1\4dadosFuncionário.AssemblyInfoInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\obj\Debug\netcoreapp3.1\4dadosFuncionário.AssemblyInfo.cs
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\obj\Debug\netcoreapp3.1\4dadosFuncionário.csproj.CoreCompileInputs.cache
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\obj\Debug\netcoreapp3.1\4dadosFuncionário.dll
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\obj\Debug\netcoreapp3.1\4dadosFuncionário.pdb
+D:\Projetos\dotNET\OrientadoObjetos\exercicios\Exercicios\4dadosFuncionário\obj\Debug\netcoreapp3.1\4dadosFuncionário.genruntimeconfig.cache

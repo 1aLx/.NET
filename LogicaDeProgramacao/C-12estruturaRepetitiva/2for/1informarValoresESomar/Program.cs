@@ -23,6 +23,8 @@ namespace _1informarValoresESomar
 
             }
 
+            Console.WriteLine("Aprendizado em git commands!!!");
+
             System.Console.WriteLine($"Soma = {soma}"); //Resultado da soma total da soma.
         }
     }

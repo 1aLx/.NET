@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4S40Ty1Miaj7BoPgmYW+UbDxk8ofFjv5gERzB1+dtWmtE5Wos/HHTKL85jLFzuAkNaqNJU5OI3MibYSfITWpw==",
+  "dgSpecHash": "p2uFOp7TgygX/QFWHvnNHsYRZbqlZzQu69vJk7oPhHmp3rg4lP8HtIfHWfrDuCxC6NpolUbsz+402XcoXIFaEg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\LogicaDeProgramacao\\LogicaDeProgramacaoCsharp\\exercicios\\5estruturaRepetitiva\\2for\\1informarValoresESomar\\1informarValoresESomar.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alx19\\Documents\\Projetos\\.NET\\LogicaDeProgramacao\\C-12estruturaRepetitiva\\2for\\1informarValoresESomar\\1informarValoresESomar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alx19\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alx19\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alx19\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alx19\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
